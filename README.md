@@ -5,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://github.com/nlw3/web/src/images/leading.svg" />
+  <img src="https://github.com/Valirio/nlw3/blob/master/web/src/images/leading.svg" />
 </p>
 
 <div>
