@@ -16,7 +16,7 @@ O layout pode ser acessado através da página do Figma, no [seguinte link](http
   - O projeto foi desenvolvido como um desafio para o Nlw3 e consiste em achar uma solução para a
 melhoria e aproximação das pessoas a visitações de Orfanatos.
 
-  - A solução encontrada pelo nosso time consiste em um sistema multi-plataforma para cadastro consulta e contato. No período de 5 dias foi possível
+  - A solução encontrada consiste em um sistema multi-plataforma para cadastro consulta e contato. No período de 5 dias foi possível
 desenvolver a solução criada por completo, mas segue em aberto as funcionalidades ausentes para que sejam completadas posteriormente.
 Essa aplicação recebe o cadastro do orfanato com os dados de visitação e localização para que a nossa API retorne para ele
 de forma simples como fazer o contato com várias informaçẽos já esclarecidas.
