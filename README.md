@@ -29,7 +29,6 @@ de forma simples como fazer o contato com várias informaçẽos já esclarecida
   <h2> 🖥 Utilizando a aplicação: </h2>
 
   - Para utlizar essa aplicação, você precisará do [Git](https://git-scm.com), [Node.js v10.16][nodejs] ou maior + [Yarn v1.13][yarn] ou maior instalado no seu computador. E então, na sua linha de comando:
-  - Lembre-se de preencher o arquivo `ormconfig.json` com os dados necessários de acordo com as suas ferramentas.
   ```bash
 # Clonar esse repositório
 $ git clone https://github.com/Valirio/nlw3.git
