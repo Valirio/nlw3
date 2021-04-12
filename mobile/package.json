@@ -1,11 +1,14 @@
 {
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
-    "start": "expo start",
-    "android": "expo start --android",
-    "ios": "expo start --ios",
-    "web": "expo start --web",
-    "eject": "expo eject"
+    "android": "react-native run-android",
+    "androidlog": "react-native log-android",
+    "ios": "react-native run-ios",
+    "ioslog": "react-native log-ios",
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
+    "clean": "rm -rf node_modules && rm -f package-lock.json && rm -f yarn.lock && rm -rf ios/Pods && rm -rf ios/Podfile.lock"
   },
   "dependencies": {
     "@expo-google-fonts/nunito": "^0.1.0",
